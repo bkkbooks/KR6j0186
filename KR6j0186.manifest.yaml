@@ -1,0 +1,292 @@
+canonical_identifier: bkk:krp/KR6j0186/v1
+canonical_location: https://kanripo.org/bkk/KR6j0186/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 守護國界主陀羅尼經
+  identifiers:
+    alt_id:
+    - T19n0997
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0997.xml
+    old_id: T19n0997
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 金藏乙-CB
+  label: 金藏乙-CB
+  source_xml_id: wit5
+- short: 磧乙-CB
+  label: 磧乙-CB
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0186_000.yaml, hash: 'sha256:1acd46fca5b07dc1940b4833489cb7e2178433ebb69024dcfbaf66c1afada15e'}
+  - {seq: 1, filename: KR6j0186_001.yaml, hash: 'sha256:815a1a0d0cb581f3960220aecb56eba0c3ebbb731ab6e89edcd42085eeaad97e'}
+  - {seq: 2, filename: KR6j0186_002.yaml, hash: 'sha256:247dcdf185c53df2b80b5d570465062393fad6f572fb352e7a116796842aaf3c'}
+  - {seq: 3, filename: KR6j0186_003.yaml, hash: 'sha256:923c232064aa03d66ae6c0d8b49db13adf8098db46b39c45da54bb350925bed4'}
+  - {seq: 4, filename: KR6j0186_004.yaml, hash: 'sha256:1fd24d54184daf564941e1e4e80c44eb1ccbbafe9e0ea87f842df24739a02e95'}
+  - {seq: 5, filename: KR6j0186_005.yaml, hash: 'sha256:20503c4f1ed86954b8072de49a0b75e5facb4a28a457caa52d6de48c1babc806'}
+  - {seq: 6, filename: KR6j0186_006.yaml, hash: 'sha256:adde0d77e7ef3e16830cc930e7a8fbb9b8129dfa07bc82962c5c9927f986fcdd'}
+  - {seq: 7, filename: KR6j0186_007.yaml, hash: 'sha256:2df03b597fd518693ca02094d60cb3ce307842442a26cbb9abc595b9c76b49f7'}
+  - {seq: 8, filename: KR6j0186_008.yaml, hash: 'sha256:441421f3fb8bea1c679d96873f6f48fa786997d85997ceb0f2e6b3f536460067'}
+  - {seq: 9, filename: KR6j0186_009.yaml, hash: 'sha256:15f30b186eefe808bb5bb1cd112d65d0c3e38063fad390205624a3d62dc82f65'}
+  - {seq: 10, filename: KR6j0186_010.yaml, hash: 'sha256:94ba568b0aec4509793236e07d7e0a08575cdbc6ab6828594d4f5f42fe010ace'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0186_001.markers.yaml, hash: 'sha256:26b2266a183e7349ea203f5d25743ee30fe4dbf8379fa783e824d3cfc70faaf8'}
+  - {seq: 2, role: markers, filename: assets/KR6j0186_002.markers.yaml, hash: 'sha256:c20bd28169a07f436c843d3cf9c6295b55b8a0d1d59ab685b083a62412b2c11d'}
+  - {seq: 3, role: markers, filename: assets/KR6j0186_003.markers.yaml, hash: 'sha256:99091475009c4c82741cfb00b357cce07c95865cf68b742fa0fbaeecca36cdef'}
+  - {seq: 4, role: markers, filename: assets/KR6j0186_004.markers.yaml, hash: 'sha256:0e531223063b88677be8250d269d6c948d34fbeb99d7254b1a7540702669c18a'}
+  - {seq: 5, role: markers, filename: assets/KR6j0186_005.markers.yaml, hash: 'sha256:6f83515dbe3fc89a8406f8828d31c6b9808dd27ca23047b63c4f3c3d9a5fef61'}
+  - {seq: 6, role: markers, filename: assets/KR6j0186_006.markers.yaml, hash: 'sha256:bdd11eaee0e9ac61c36ea3536ad4f48e21f9a38eaeca5b47789b208e166f2b4f'}
+  - {seq: 7, role: markers, filename: assets/KR6j0186_007.markers.yaml, hash: 'sha256:1c7f75b2192e29d50a5a2271004ab4e74d3b40e9f709abf599a89c4fa32f38c2'}
+  - {seq: 8, role: markers, filename: assets/KR6j0186_008.markers.yaml, hash: 'sha256:a2d5cb9d3a753b55d92a8bfb5fff03343a6e75efc57f3bafdb910f5e14e37257'}
+  - {seq: 9, role: markers, filename: assets/KR6j0186_009.markers.yaml, hash: 'sha256:e42260b1bc82d9e067ceccbef09155e1a4eca754f9c8e0d135c36a3cb642f256'}
+  - {seq: 10, role: markers, filename: assets/KR6j0186_010.markers.yaml, hash: 'sha256:977ba486293961a6c94a4fd969b13aba1ac487cf8f592b6e8d17490fed38ec8e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0186_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6942
+  label: 守護國界主陀羅尼經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0186_T_001-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0186_T_001-mulu-2
+    span:
+    - body
+    - 2195
+    - 2195
+  label: 2 陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0186_T_001-mulu-3
+    span:
+    - body
+    - 2195
+    - 2195
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0186_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6580
+  label: 守護國界主陀羅尼經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0186_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6264
+  label: 守護國界主陀羅尼經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0186_T_003-mulu-1
+    span:
+    - body
+    - 3120
+    - 3120
+  label: 3 大悲胎藏出生品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0186_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5565
+  label: 守護國界主陀羅尼經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0186_T_004-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 4 入如來大悲不思議品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0186_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 7778
+  label: 守護國界主陀羅尼經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0186_T_005-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 5 入如來不思議甚深事業品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0186_T_005-mulu-2
+    span:
+    - body
+    - 15
+    - 15
+  label: '1'
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6j0186_T_006-juan-start
+    span:
+    - body
+    - 0
+    - 6284
+  label: 守護國界主陀羅尼經卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0186_T_007-juan-start
+    span:
+    - body
+    - 0
+    - 7216
+  label: 守護國界主陀羅尼經卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6j0186_T_007-mulu-1
+    span:
+    - body
+    - 3682
+    - 3682
+  label: 6 菩薩瓔珞莊嚴品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0186_T_008-juan-start
+    span:
+    - body
+    - 0
+    - 7577
+  label: 守護國界主陀羅尼經卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0186_T_008-mulu-1
+    span:
+    - body
+    - 1746
+    - 1746
+  label: 7 大光普照莊嚴品
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6j0186_T_008-mulu-2
+    span:
+    - body
+    - 3643
+    - 3643
+  label: 8 般若根本事業莊嚴品
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0186_T_009-juan-start
+    span:
+    - body
+    - 0
+    - 8050
+  label: 守護國界主陀羅尼經卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6j0186_T_009-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 9 陀羅尼功德軌儀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0186_T_010-juan-start
+    span:
+    - body
+    - 0
+    - 7242
+  label: 守護國界主陀羅尼經卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0186_T_010-mulu-1
+    span:
+    - body
+    - 15
+    - 15
+  label: 10 阿闍世王受記品
+  type: mulu
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6j0186_T_010-mulu-2
+    span:
+    - body
+    - 4498
+    - 4498
+  label: 11 如來囑累品
+  type: mulu
+  level: 1
+hash: sha256:0353c2bd98283db127c65701d25cd159516d11876a95786a472d041c12f284c1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

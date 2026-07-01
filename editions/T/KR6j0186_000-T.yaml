@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0186/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 守護國界主陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0997.xml
+    old_id: T19n0997
+hash: sha256:1acd46fca5b07dc1940b4833489cb7e2178433ebb69024dcfbaf66c1afada15e
